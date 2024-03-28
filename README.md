@@ -1,4 +1,4 @@
-# Loss_Sirius
+# Loss Pinguinos
 
 ### Файлы для доп этапа:
 
